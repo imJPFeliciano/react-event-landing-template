@@ -2,8 +2,8 @@
 
 ## Requirements
 
-[] Multilanguage support
-[] Responsive design (Mobile First)
+* Multilanguage support
+* Responsive design (Mobile First)
 
 ## Features
 
