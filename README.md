@@ -4,7 +4,7 @@
 
 * Multilanguage support
 * Responsive design (Mobile First)
-
+* Dark mode support
 ## Features
 
 * Navigation
