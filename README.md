@@ -1,3 +1,27 @@
+# React Event Landing Template
+
+## Requirements
+
+[] Multilanguage support
+[] Responsive design (Mobile First)
+
+## Features
+
+* Navigation
+* Carousel with Actions
+* Promo Video
+* Event Description
+* Stats - Workshops | Talks | Attendants
+* Meet the speakers
+* Past Events
+* Tickets - Payments | Eventbrite
+* Agenda
+* Partners | Universities | Sponsors
+* Subscribe to our newsletter
+* Social Media links
+* Gather feedback
+* Open for papers
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
