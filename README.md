@@ -1,3 +1,30 @@
+# React Event Landing Template
+
+## Requirements
+
+* Multilanguage support
+* Responsive design (Mobile First)
+* Dark mode support
+
+## Features
+
+* Navigation
+* Carousel with Actions
+* Promo Video
+* Event Description
+* Stats - Workshops | Talks | Attendants
+* Meet the speakers
+* Past Events
+* Tickets - Payments | Eventbrite
+* Agenda
+* Partners | Universities | Sponsors
+* Subscribe to our newsletter
+* Social Media links
+* Gather feedback
+* Open for papers
+
+## Project bootstrapped from Nextjs
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
